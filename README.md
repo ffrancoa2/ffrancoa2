@@ -37,3 +37,12 @@
 ---
 
 ✨ "Construyendo mi futuro línea por línea de código."
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU-USUARIO&theme=tokyonight" />
+</p>
