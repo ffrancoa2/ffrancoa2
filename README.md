@@ -1,22 +1,24 @@
 <h1 align="center">Fiorella Nicole Franco Alvarez</h1>
 
 <p align="center">
-Frontend Developer (Junior) | React • Python • UI Development | Remote Ready
+Frontend Developer | Python & Backend Basics | React • Django • Docker
 </p>
 
 ---
 
 ## 👩‍💻 Professional Profile
 
-Technology student with knowledge in frontend development and Python.
+Technology student with strong frontend skills and backend fundamentals in Python.
 
-I build clean, responsive and user-friendly interfaces using modern web technologies, and I also have programming foundations in Python for problem-solving and backend logic.
+I develop modern, responsive interfaces using React and Tailwind, and build backend logic using Django, REST APIs, and database integration.
 
-Interested in remote internships, junior roles and collaborative tech projects.
+Experience with automation processes, scripts, and containerized environments.
+
+Interested in remote internships, junior developer roles, and collaborative projects.
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Technical Stack
 
 ### Frontend
 - HTML5
@@ -25,37 +27,43 @@ Interested in remote internships, junior roles and collaborative tech projects.
 - React + Vite
 - Tailwind CSS
 
-### Programming & Tools
+### Backend
 - Python
+- Django
+- REST APIs
+- Database integration (ORM)
+
+### Tools & DevOps
 - Git & GitHub
-- Docker (basic)
+- Docker
 - CI/CD fundamentals
+- Automation scripts
 
 ---
 
-## 📌 Featured Projects
+## 📌 Featured Work
 
 ### 🧁 Berry Cream
-Modern web application built with React and Tailwind CSS.
+Responsive frontend application built with React.
 
-### 🐍 Python Projects
-Problem-solving scripts and logic-based exercises developed using Python.
+### 🐍 Django API Project
+Backend project with API endpoints and database integration.
 
-### 🐳 Dockerized Environment
-Containerized project with automated build configuration.
+### ⚙️ Automation Scripts
+Python scripts for process automation and task optimization.
 
 ---
 
 ## 🌍 Work Approach
 
-- Clean and organized code
-- Strong logical thinking
-- Responsive design principles
+- Clean and structured code
+- Logical problem-solving
+- RESTful architecture understanding
+- Responsive UI thinking
 - Continuous learning mindset
-- Team collaboration
 
 ---
 
 <p align="center">
-Building elegant digital experiences with logic and creativity.
+Building scalable systems where design and backend logic work together.
 </p>
