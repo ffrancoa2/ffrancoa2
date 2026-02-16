@@ -31,7 +31,7 @@
 
 📫 Conecta conmigo
 
-- GitHub: https://github.com/TU-USUARIO
+- GitHub: https://github.com/ffrancoa2
 - LinkedIn: (puedes agregarlo aquí)
 
 ---
@@ -40,9 +40,9 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ffrancoa2&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU-USUARIO&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ffrancoa2&theme=tokyonight" />
 </p>
