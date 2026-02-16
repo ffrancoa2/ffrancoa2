@@ -1,29 +1,33 @@
-<h1 align="center">Hola 👋, soy Fiorella Nicole Franco Alvarez</h1>
+<h1 align="center">Fiorella Nicole Franco Alvarez</h1>
 
 <p align="center">
-💗 Desarrollo Web | 💻 React & Frontend | 🚀 Aprendiendo cada día
+💗 Frontend Developer in Progress | React • UI • Tecnología Moderna
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ffrancoa2&show_icons=true&theme=rose_pine&hide_border=true" />
 </p>
 
 ---
 
-## 🌷 Sobre mí
+## 👩‍💻 Perfil Profesional
 
-Soy estudiante de tecnología apasionada por el desarrollo web moderno.  
-Me gusta crear interfaces limpias, elegantes y funcionales.  
+Estudiante de tecnología enfocada en desarrollo frontend moderno.  
+Me especializo en crear interfaces limpias, elegantes y funcionales utilizando herramientas actuales del ecosistema web.
 
-Actualmente trabajando con:
+Actualmente fortaleciendo conocimientos en:
 
-- ⚛️ React + Vite
-- 🎨 Tailwind CSS
-- 🐳 Docker (básico)
-- 🔄 Git & GitHub
-- 🚀 Automatización y CI/CD
+- ⚛️ React + Vite  
+- 🎨 Tailwind CSS  
+- 🐳 Docker  
+- 🔄 Git & GitHub  
+- 🚀 CI/CD  
 
-Siempre buscando crecer profesionalmente y construir proyectos con propósito.
+Me interesa participar en proyectos colaborativos y oportunidades que impulsen mi crecimiento como desarrolladora.
 
 ---
 
-## 🛠️ Tecnologías
+## 🛠️ Stack Tecnológico
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,docker,vscode" />
@@ -31,11 +35,15 @@ Siempre buscando crecer profesionalmente y construir proyectos con propósito.
 
 ---
 
-## 📊 Mis estadísticas
+## 📌 Proyectos Destacados
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ffrancoa2&show_icons=true&theme=rose_pine&hide_border=true" />
-</p>
+- 🧁 **Berry Cream** – Aplicación web moderna desarrollada con React y Tailwind.
+- 💼 **Portafolio Personal** – Diseño minimalista con enfoque en experiencia de usuario.
+- 🐳 **Entorno Dockerizado** – Configuración de contenedores y automatización básica.
+
+---
+
+## 📈 Actividad
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ffrancoa2&theme=rose_pine&hide_border=true" />
@@ -43,20 +51,12 @@ Siempre buscando crecer profesionalmente y construir proyectos con propósito.
 
 ---
 
-## 🌸 Proyectos Destacados
+## ✨ Filosofía Profesional
 
-- 🧁 Berry Cream – Tienda web moderna con React
-- 💼 Portafolio Personal
-- 🐳 Proyecto con Docker y automatización
-
----
-
-## ✨ Frase que me representa
-
-> "La elegancia no es llamar la atención, es ser recordada."
+> “Construyo experiencias digitales donde el diseño y el código trabajan en armonía.”
 
 ---
 
 <p align="center">
-  💗 Gracias por visitar mi perfil 💗
+🌸 Siempre aprendiendo. Siempre creciendo.
 </p>
