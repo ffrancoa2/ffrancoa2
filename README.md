@@ -1,66 +1,66 @@
 <h1 align="center">Fiorella Nicole Franco Alvarez</h1>
 
 <p align="center">
-💗 Frontend Developer in Progress | React • UI • Tecnología Moderna
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ffrancoa2&show_icons=true&bg_color=ffffff&title_color=ff69b4&icon_color=ff69b4&text_color=555&hide_border=true" />
-</p>
-
-
-
-
-
----
-
-## 👩‍💻 Perfil Profesional
-
-Estudiante de tecnología enfocada en desarrollo frontend moderno.  
-Me especializo en crear interfaces limpias, elegantes y funcionales utilizando herramientas actuales del ecosistema web.
-
-Actualmente fortaleciendo conocimientos en:
-
-- ⚛️ React + Vite  
-- 🎨 Tailwind CSS  
-- 🐳 Docker  
-- 🔄 Git & GitHub  
-- 🚀 CI/CD  
-
-Me interesa participar en proyectos colaborativos y oportunidades que impulsen mi crecimiento como desarrolladora.
-
----
-
-## 🛠️ Stack Tecnológico
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,docker,vscode" />
+Frontend Developer (Junior) | React • UI Development • Remote Ready
 </p>
 
 ---
 
-## 📌 Proyectos Destacados
+## 👩‍💻 Professional Profile
 
-- 🧁 **Berry Cream** – Aplicación web moderna desarrollada con React y Tailwind.
-- 💼 **Portafolio Personal** – Diseño minimalista con enfoque en experiencia de usuario.
-- 🐳 **Entorno Dockerizado** – Configuración de contenedores y automatización básica.
+Technology student focused on modern frontend development.
+
+I build clean, responsive and user-friendly interfaces using current web technologies.  
+Interested in remote opportunities, internships and collaborative projects.
 
 ---
 
-## 📈 Actividad
+## 🛠️ Technical Skills
+
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- React + Vite
+- Tailwind CSS
+- Git & GitHub
+- Docker (basic)
+- CI/CD fundamentals
+
+---
+
+## 📌 Featured Projects
+
+### 🧁 Berry Cream
+Modern web application built with React and Tailwind CSS.  
+Focused on UI design and responsive layout.
+
+### 💼 Personal Portfolio
+Minimalist portfolio showcasing projects and frontend skills.
+
+### 🐳 Dockerized Environment
+Containerized project with automated build configuration.
+
+---
+
+## 🌍 Work Approach
+
+- Clean and organized code
+- Responsive design principles
+- Version control best practices
+- Continuous learning mindset
+- Team collaboration
+
+---
+
+## 📫 Contact
+
+Open to:
+- Remote internships
+- Junior frontend roles
+- Collaborative tech projects
+
+---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ffrancoa2&theme=rose_pine&hide_border=true" />
-</p>
-
----
-
-## ✨ Filosofía Profesional
-
-> “Construyo experiencias digitales donde el diseño y el código trabajan en armonía.”
-
----
-
-<p align="center">
-🌸 Siempre aprendiendo. Siempre creciendo.
+Building elegant digital experiences, one line of code at a time.
 </p>
