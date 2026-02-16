@@ -1,16 +1,39 @@
-## Hi there 👋
+<h1 align="center">Hola 👋, soy Fiorella Nicole Franco Alvarez</h1>
+<h3 align="center">💻 Estudiante de Desarrollo Web | 🚀 Apasionada por la tecnología</h3>
 
-<!--
-**ffrancoa2/ffrancoa2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🌸 Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Actualmente estudiando tecnología y desarrollo web
+- 💡 Me gusta crear proyectos modernos y funcionales
+- 🐳 Aprendiendo Docker y CI/CD
+- ⚛️ Trabajando con React + Vite + Tailwind
+- 🌱 Siempre aprendiendo algo nuevo
+
+---
+
+🛠️ Tecnologías
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,docker,vscode" />
+</p>
+
+---
+
+📌 Proyectos Destacados
+
+- 🧁 Berry Cream - Tienda web con React
+- 🚀 Portafolio Personal
+- 📦 Proyecto con Docker y automatización CI/CD
+
+---
+
+📫 Conecta conmigo
+
+- GitHub: https://github.com/TU-USUARIO
+- LinkedIn: (puedes agregarlo aquí)
+
+---
+
+✨ "Construyendo mi futuro línea por línea de código."
