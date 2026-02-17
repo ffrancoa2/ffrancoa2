@@ -8,13 +8,9 @@ Frontend Developer | Python & Backend Basics | React • Django • Docker
 
 ## 👩‍💻 Professional Profile
 
-Technology student with strong frontend skills and backend fundamentals in Python.
-
-I develop modern, responsive interfaces using React and Tailwind, and build backend logic using Django, REST APIs, and database integration.
-
-Experience with automation processes, scripts, and containerized environments.
-
-Interested in remote internships, junior developer roles, and collaborative projects.
+I design digital experiences where clean interfaces and backend logic work in harmony.
+With experience in React, Python, and Django, I develop responsive applications integrated with APIs and databases.
+I am ready to contribute to remote teams with dedication, growth mindset, and a passion for technology.
 
 ---
 
