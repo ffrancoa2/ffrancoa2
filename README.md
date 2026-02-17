@@ -6,7 +6,7 @@ Frontend Developer | Python & Backend Basics | React • Django • Docker
 
 ---
 
-## 👩‍💻 Professional Profile
+##  Professional Profile
 
 I design digital experiences where clean interfaces and backend logic work in harmony.
 With experience in React, Python, and Django, I develop responsive applications integrated with APIs and databases.
@@ -14,7 +14,7 @@ I am ready to contribute to remote teams with dedication, growth mindset, and a 
 
 ---
 
-## 🛠️ Technical Stack
+##  Technical Stack
 
 ### Frontend
 - HTML5
@@ -50,7 +50,7 @@ Python scripts for process automation and task optimization.
 
 ---
 
-## 🌍 Work Approach
+##  Work Approach
 
 - Clean and structured code
 - Logical problem-solving
